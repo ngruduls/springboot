@@ -1,4 +1,4 @@
-package com.luv2code.springcoredemo.rest;
+package com.nauris2.springcoredemo.rest;
 
 import com.luv2code.springcoredemo.common.Coach;
 import org.springframework.beans.factory.annotation.Autowired;
