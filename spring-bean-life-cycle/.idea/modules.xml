@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/spring-bean-life-cycle.iml" filepath="$PROJECT_DIR$/spring-bean-life-cycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springcoredemo.iml" filepath="$PROJECT_DIR$/../springcoredemo.iml" />
     </modules>
   </component>
 </project>
